@@ -1,0 +1,14 @@
+AbstractTextEditor.Color.Background=0,0,28
+AbstractTextEditor.Color.Foreground=227,255,227
+currentLineColor=0,0,55
+eclipse.preferences.version=1
+errorTextStyle=SQUIGGLES
+lineNumberColor=0,255,0
+org.sonar.ide.eclipse.ui.issue.color=255,255,0
+org.sonar.ide.eclipse.ui.issue.text.style=BOX
+org.sonar.ide.eclipse.ui.newissue.color=255,255,0
+org.sonar.ide.eclipse.ui.newissue.highlight=false
+org.sonar.ide.eclipse.ui.newissue.text.style=DASHED_BOX
+overviewRuler_migration=migrated_3.1
+printMarginColor=255,128,64
+warningTextStyle=SQUIGGLES
